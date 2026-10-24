@@ -67,6 +67,6 @@
         1
     ],
     "tiles": [
-        "https://demotiles.maplibre.org/tiles/{z}/{x}/{y}.pbf"
+        "https://khtyeo-globalallstar.github.io/1ndeks-map-assets/tiles/{z}/{x}/{y}.pbf"
     ]
 }
